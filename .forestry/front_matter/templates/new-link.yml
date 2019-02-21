@@ -1,0 +1,15 @@
+---
+label: New Link
+hide_body: 
+is_partial: 
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: redirect_to
+  label: Redirect to
+  type: text
+  hidden: false
+  default: ''
