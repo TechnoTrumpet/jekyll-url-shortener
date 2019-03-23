@@ -13,6 +13,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- ting.md
 - musicalbio.md
 - musical-tshirts.md
 - twitter.md
