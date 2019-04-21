@@ -13,6 +13,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- avclub-googlegroup.md
 - avclub-register.md
 - ting.md
 - musicalbio.md
