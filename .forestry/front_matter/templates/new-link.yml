@@ -13,6 +13,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- avclub-register.md
 - ting.md
 - musicalbio.md
 - musical-tshirts.md
