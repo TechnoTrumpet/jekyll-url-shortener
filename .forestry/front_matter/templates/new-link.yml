@@ -13,7 +13,6 @@ fields:
   hidden: false
   default: ''
 pages:
-- quicksupport.md
 - twitter.md
 - avclub-googlegroup.md
 - avclub-register.md
