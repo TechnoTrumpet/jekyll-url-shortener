@@ -13,9 +13,10 @@ fields:
   hidden: false
   default: ''
 pages:
+- quicksupport.md
+- twitter.md
 - avclub-googlegroup.md
 - avclub-register.md
 - ting.md
 - musicalbio.md
 - musical-tshirts.md
-- twitter.md
