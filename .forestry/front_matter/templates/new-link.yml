@@ -13,6 +13,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- cloudberry.md
 - twitter.md
 - avclub-googlegroup.md
 - avclub-register.md
