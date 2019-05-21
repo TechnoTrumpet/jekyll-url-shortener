@@ -13,10 +13,11 @@ fields:
   hidden: false
   default: ''
 pages:
+- 2019marchingbandphotos.md
+- musical-tshirts.md
+- ting.md
 - cloudberry.md
 - twitter.md
 - avclub-googlegroup.md
 - avclub-register.md
-- ting.md
 - musicalbio.md
-- musical-tshirts.md
