@@ -13,6 +13,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- repair/symbaloo.md
 - card.md
 - 2019marchingbandphotos.md
 - musical-tshirts.md
