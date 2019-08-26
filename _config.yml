@@ -2,7 +2,7 @@ title: mglnk shortener
 description: mglnk Link Shortener 
 logo: /assets/img/M-and-G_colored-rotated.png
 show_downloads: true
-google_analytics:
+google_analytics: UA-123028023-3 
 # theme: athene
 
 permalink: /:slug/
