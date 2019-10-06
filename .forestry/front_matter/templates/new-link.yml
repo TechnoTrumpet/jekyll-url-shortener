@@ -13,16 +13,17 @@ fields:
   hidden: false
   default: ''
 pages:
+- avclub-band.md
 - 2019marchingbandphotos.md
-- card.md
-- repair/onedrive.md
-- repair/symbaloo.md
+- avclub-register.md
 - assist/unattended.md
 - assist/join.md
-- musicalbio.md
-- twitter.md
-- cloudberry.md
-- avclub-googlegroup.md
-- avclub-register.md
-- ting.md
+- repair/onedrive.md
+- repair/symbaloo.md
+- card.md
 - musical-tshirts.md
+- ting.md
+- cloudberry.md
+- twitter.md
+- avclub-googlegroup.md
+- musicalbio.md
