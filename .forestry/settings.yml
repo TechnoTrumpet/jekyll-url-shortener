@@ -5,11 +5,10 @@ admin_path: admin
 webhook_url: 
 sections:
 - type: jekyll-pages
-  label: Pages
+  label: Links
   create: all
-- type: jekyll-posts
-  label: Posts
-  create: all
+  templates:
+  - new-link
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
